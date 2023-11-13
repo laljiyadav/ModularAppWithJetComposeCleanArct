@@ -1,0 +1,22 @@
+object Versions {
+    val coreKtx="1.9.0"
+    val runtimeKtx="2.6.2"
+    val compose="1.8.0"
+    val composeBom="2023.03.00"
+    val composeJunit="4.13.2"
+    val extJunit="1.1.5"
+    val espressoCore="3.5.1"
+    val appcompt="1.6.1"
+    val daggerHiltAndroid="2.48.1"
+    val daggerHiltAndroidCompiler="2.48.1"
+    val androidXHiltCompiler="1.1.0"
+    val androidXNavigationCompose="1.1.0"
+    val retrofit2="2.9.0"
+    val okHttp="3.8.1"
+    val gsonConverter="2.9.0"
+    val moshiConverter="2.4.0"
+    val moshiKotlin="1.15.0"
+    val intercepterLogging="3.4.1"
+    val coroutinesCore ="1.7.3"
+
+}
